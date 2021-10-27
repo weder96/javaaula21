@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/OCA01JavaBasics.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCA01JavaBasics/StudyClass11Variables/Variaveis.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCA02WorkingJavaDataTypes/BlockScope.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCA04CreatingUsingArrays/AulaArray05.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCA04CreatingUsingArrays/AulaArray06.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCA04CreatingUsingArrays/StudyClass20ArrayMultiDimension/AulaArray07Sorting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCA04CreatingUsingArrays/StudyClass20ArrayMultiDimension/AulaArray08Multi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCA05UsingLoopsContructs/StudyClass18BreakContinue/BreakEContinue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCA05UsingLoopsContructs/StudyClassBreak/BreakControl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCA05UsingLoopsContructs/studyClassBigNumber/BigIntegerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCA05UsingLoopsContructs/studyClassBigNumber/ExecuteBigNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/CollectionMap/BigImage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/CollectionMap/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/CollectionMap/EnumerationSetsAndMaps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/CollectionMap/SmallCollections.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/CollectionMap/TestLinkedHashVsMaps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/CollectionMap/TestMap.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/CollectionMap/UniqueImageName.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/CollectionMap/Weekday.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/TestMap/TestMap.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/arrayListVsLinkedList/TestsArrayListLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/diamond/Actionable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/diamond/ArrayAlg.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/diamond/Execute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/diamond/Interval.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/diamond/IntervalCompable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/diamond/Pair.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/diamond/PairTest2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/diamond/PairTwo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/iterators/TestIterators.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/projectGenerics/bookFunctionalProgramming/Execute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/projectGenerics/bookFunctionalProgramming/ExecuteBetterWay.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/projectGenerics/bookFunctionalProgramming/ExecuteList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/projectGenerics/bookFunctionalProgramming/ExecuteOldWay.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/projectGenerics/bookFunctionalProgramming/ExecuteReutilesStream.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/projectGenerics/bookFunctionalProgramming/ExecuteStartWithN.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/projectGenerics/bookFunctionalProgramming/ExecuteTransformList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/projectGenerics/main/A05GenericsCollections.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/variableInterface/Actionable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/variableInterface/Execute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PackOCP13GenericsAndCollections/variableInterface/NuclearAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../PGF/pgf-fe-api/web/src/main/java/br/gov/mt/sefaz/pgf/api/validation/IndicadorValidation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

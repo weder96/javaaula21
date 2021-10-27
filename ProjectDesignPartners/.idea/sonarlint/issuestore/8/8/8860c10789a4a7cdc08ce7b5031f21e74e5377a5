@@ -1,0 +1,10 @@
+
+Nsquid:S2629-"7Use the built-in formatting to construct this argument.(³ô§ã
+Wsquid:S34575"AFormat specifiers should be used instead of string concatenation.(—‘¼y
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì¯áñüÿÿÿÿ
+Msquid:S26295"7Use the built-in formatting to construct this argument.(—‘¼y
+Nsquid:S26296"7Use the built-in formatting to construct this argument.(Ô“—†
+Xsquid:S3457-"AFormat specifiers should be used instead of string concatenation.(³ô§ã
+Xsquid:S3457("AFormat specifiers should be used instead of string concatenation.(ç»õ·
+Xsquid:S34576"AFormat specifiers should be used instead of string concatenation.(Ô“—†
+Nsquid:S2629("7Use the built-in formatting to construct this argument.(ç»õ·

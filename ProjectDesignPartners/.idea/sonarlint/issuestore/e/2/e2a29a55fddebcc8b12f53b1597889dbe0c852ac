@@ -1,0 +1,7 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇüŸ
+]squid:S21428"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+bsquid:S21847"FCast one of the operands of this multiplication operation to a "long".(Şàà·şÿÿÿÿ
+isquid:S21840"FCast one of the operands of this multiplication operation to a "long".( é¦†şÿÿÿÿ8ì«Ó.
+Bsquid:S26293"$Invoke method(s) only conditionally.(è‘±8ì«Ó.
+Bsquid:S26294"$Invoke method(s) only conditionally.(£Š€ı8ì«Ó.

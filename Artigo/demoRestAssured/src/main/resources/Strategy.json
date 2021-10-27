@@ -1,0 +1,38 @@
+[
+  {
+    "__typename": "Strategy",
+    "updatedAt": "2020-02-16T21:07:23.013Z",
+    "createdAt": "2020-02-16T21:07:23.013Z",
+    "order": 4,
+    "dyn": "bbfe1517-ff19-4285-9143-d05296ae532e",
+    "title": "SÚMULAS",
+    "type": "NORMAL"
+  },
+  {
+    "__typename": "Strategy",
+    "updatedAt": "2020-02-16T21:07:11.714Z",
+    "createdAt": "2020-02-16T21:07:11.714Z",
+    "order": 3,
+    "dyn": "fe8185f5-1c2b-4123-85fe-a0a428ace919",
+    "title": "ENUNCIADOS DE INFORMATIVOS",
+    "type": "NORMAL"
+  },
+  {
+    "__typename": "Strategy",
+    "updatedAt": "2020-02-16T21:06:59.626Z",
+    "createdAt": "2020-02-16T21:06:59.626Z",
+    "order": 2,
+    "dyn": "b74f3115-c287-4f56-ae4c-9a2e840d4c41",
+    "title": "DESAFIO 21 DIAS",
+    "type": "NORMAL"
+  },
+  {
+    "__typename": "Strategy",
+    "updatedAt": "2020-02-16T21:06:44.819Z",
+    "createdAt": "2020-02-16T21:06:44.819Z",
+    "order": 1,
+    "dyn": "4a3a5061-522b-4a6d-9641-56c50cefcd7d",
+    "title": "ESTRATÉGIA TJ GO 3 EM 30",
+    "type": "REVIEW"
+  }
+]

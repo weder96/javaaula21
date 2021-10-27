@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f76f9ec-47d3-4c61-81b1-1042a87f44c2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/../ProjectDesignPartners/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass11Variables/Variaveis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass12Variables/Piadinha.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass12Variables/SequenciaEscape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass12Variables/VariaveisBoolean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass12Variables/VariaveisChar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA03UsingOperatorsDecisionConstant/Class1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA03UsingOperatorsDecisionConstant/Class2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA03UsingOperatorsDecisionConstant/Class3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/OCA03UsingOperatorsAndDecisionConstructs.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="317">
+                <caret line="923" column="6" lean-forward="true" selection-start-line="923" selection-start-column="6" selection-end-line="923" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>import com.iluwatar.specification.creature.</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass52Exception/labs/ContatoNaoExisteException.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass52Exception/labs/Teste.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass53Enum/DiaSemana.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass55Enum/TesteEnum.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass56Enum/labs/Calculadora.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass57Wrapper/TesteWrapper.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass59StaticImport/StaticImport.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass61PassParameter/PassagemValorParametro.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass62Varargs/ExemploVarargs.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass63Printf/ExemploPrintf.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass64AnonymousIntern/Externa2.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass65/InformacaoAula.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass65/Teste.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass65Annotation/InformacaoAula.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass67Thread/Teste.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass70ThreadRunnable/Teste.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass71ThreadRunnable/Teste.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass72ThreadRunnable/Teste.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass73ThreadRunnable/MinhaThread.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass75String/Aula80.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCP12_AdvancedJavaClassDesign/AbstractStudy01/Apple.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCP12AdvancedJavaClassDesign/AbstractStudy01/Apple.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/OCA09WorkingWithSelectedClassesFromTheJavaAPI.md" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA09SelectedClass/MS01MethodStringBuilder.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA09SelectedClass/MS02MethodStringBuilder.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA09SelectedClass/MS03ContrutoresStringBuilder.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA09SelectedClass/MS04StringBuilderInsert.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA09SelectedClass/MS05StringBuilderDelete.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass58Autoboxing/TesteAutoboxing.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/JavaCertQType1.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/InteractiveHello.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/JavaCertQuesType3.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/MyFirstJavaProgram.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/PrintingPower.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/SayHello.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/VariableScope.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyStackTrace/JavaCertQType2.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/JavaCertQType2.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/OCA02WorkingWithJavaDataTypes.md" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA04CreatingUsingArrays/EchoFirst.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/OCA04CreatingAndUsingArrays.md" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/OCA05UsingLoopConstructs.md" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/OCA07WorkingWithInheritance.md" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/OCA06WorkingWithMethodsAndEncapsulation.md" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/OCA01JavaBasics.md" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/Baby.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA03UsingOperatorsDecisionConstant/teste.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA03UsingOperatorsDecisionConstant/Class2.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA03UsingOperatorsDecisionConstant/Class03.java" />
+        <option value="$PROJECT_DIR$/../LearnJavaMaster/OCA03UsingOperatorsAndDecisionConstructs.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1600" />
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeaningJavaCollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJavaMaster" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningJavaCollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJavaMaster" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeaningJavaCollections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJavaMaster" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PackOCA03UsingOperatorsDecisionConstant" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580676978849" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="PackOCP12AdvancedJavaClassDesign" />
+      <recent name="PackOCP12_AdvancedJavaClassDesign" />
+      <recent name="PackOCP17UseJavaSE8DateTimeAPI" />
+      <recent name="packOCP20JavaConcurrency" />
+      <recent name="PackOCP11JavaClassDesign" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Pack07ObjectOriented" />
+      <recent name="$PROJECT_DIR$/src/Pack07ObjectOriented/basic" />
+      <recent name="$PROJECT_DIR$/src/Pack07ObjectOriented/basic/ErrorBasic" />
+      <recent name="$PROJECT_DIR$/src/Pack20DesignPatterns/abstractfactory" />
+      <recent name="$PROJECT_DIR$/src/Pack20DesignPatterns" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.class3">
+    <configuration name="Class1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PackOCA03UsingOperatorsDecisionConstant.Class1" />
+      <module name="LearnJavaMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PackOCA03UsingOperatorsDecisionConstant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PackOCA04CreatingUsingArrays.EchoFirst" />
+      <module name="LearnJavaMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PackOCA04CreatingUsingArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Piadinha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PackOCA01JavaBasics.StudyClass12Variables.Piadinha" />
+      <module name="LearnJavaMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PackOCA01JavaBasics.StudyClass12Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PackOCA01JavaBasics.StudyClass40Test.Teste" />
+      <module name="LearnJavaMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PackOCA01JavaBasics.StudyClass40Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PackOCA01JavaBasics.StudyClass41Test.Teste" />
+      <module name="LearnJavaMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PackOCA01JavaBasics.StudyClass41Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PackOCA01JavaBasics.StudyClass42Constants.Teste" />
+      <module name="LearnJavaMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PackOCA01JavaBasics.StudyClass42Constants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PackOCA01JavaBasics.StudyClass43Inheritance.Teste" />
+      <module name="LearnJavaMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PackOCA01JavaBasics.StudyClass43Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PackOCA01JavaBasics.StudyClass67Thread.Teste" />
+      <module name="LearnJavaMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PackOCA01JavaBasics.StudyClass67Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="class2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PackOCA03UsingOperatorsDecisionConstant.class2" />
+      <module name="LearnJavaMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PackOCA03UsingOperatorsDecisionConstant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="class3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PackOCA03UsingOperatorsDecisionConstant.class3" />
+      <module name="LearnJavaMaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PackOCA03UsingOperatorsDecisionConstant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EchoFirst" />
+      <item itemvalue="Application.Piadinha" />
+      <item itemvalue="Application.Class1" />
+      <item itemvalue="Application.class2" />
+      <item itemvalue="Application.class3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.class3" />
+        <item itemvalue="Application.class2" />
+        <item itemvalue="Application.Class1" />
+        <item itemvalue="Application.Piadinha" />
+        <item itemvalue="Application.EchoFirst" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f76f9ec-47d3-4c61-81b1-1042a87f44c2" name="Default Changelist" comment="" />
+      <created>1580603625353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580603625353</updated>
+      <workItem from="1580603629453" duration="4914000" />
+      <workItem from="1580661714354" duration="7102000" />
+      <workItem from="1581106055981" duration="2442000" />
+      <workItem from="1581355316637" duration="11690000" />
+      <workItem from="1581423222089" duration="32885000" />
+      <workItem from="1581685272544" duration="631000" />
+      <workItem from="1581974946490" duration="3996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63660000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1600" y="0" width="1366" height="728" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23640484" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5041186" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.381258" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.23876765" />
+      <window_info anchor="bottom" id="SonarLint" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCP11JavaClassDesign/Study01/heater/Heater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA07workingInheritance/Inheritance01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA07workingInheritance/Inheritance03/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA07workingInheritance/Inheritance03/Veiculo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA07workingInheritance/Inheritance03/Automovel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/OCP11JavaClassDesign.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/OCP22Localization.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCP12AdvancedJavaClassDesign/AbstractStudy01/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/OCA09WorkingWithSelectedClassesFromTheJavaAPI.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA09SelectedClass/MS01MethodStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA09SelectedClass/MS02MethodStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA09SelectedClass/MS03ContrutoresStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA09SelectedClass/MS04StringBuilderInsert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA09SelectedClass/MS05StringBuilderDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass58Autoboxing/TesteAutoboxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass57Wrapper/TesteWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-211">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="214" column="33" lean-forward="true" selection-start-line="214" selection-start-column="33" selection-end-line="214" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="338" column="21" lean-forward="true" selection-start-line="338" selection-start-column="21" selection-end-line="338" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass59StaticImport/StaticImport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/JavaDocumentation/Aplicacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/JavaDocumentation/Contato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/JavaDocumentation/Endereco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/VariableScope.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/PrintingPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/MyFirstJavaProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/MethodBasics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyStackTrace/JavaCertQType2.java" />
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/JavaCertQType1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/JavaCertQuesType3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/JavaCertQType2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/InteractiveHello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/OCA02WorkingWithJavaDataTypes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="588">
+            <caret line="748" column="42" lean-forward="true" selection-start-line="748" selection-start-column="42" selection-end-line="748" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/SayHello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/OCA04CreatingAndUsingArrays.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1759">
+            <caret line="603" selection-start-line="603" selection-end-line="603" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA04CreatingUsingArrays/EchoFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_211/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="2377" column="21" selection-start-line="2377" selection-start-column="18" selection-end-line="2377" selection-end-column="21" />
+          <folding>
+            <element signature="e#111724#111725#0" expanded="true" />
+            <element signature="e#111781#111782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/OCA05UsingLoopConstructs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="3499">
+            <caret line="759" column="79" lean-forward="true" selection-start-line="759" selection-start-column="79" selection-end-line="759" selection-end-column="79" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/OCA06WorkingWithMethodsAndEncapsulation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="48">
+            <caret line="542" column="5" lean-forward="true" selection-start-line="542" selection-start-column="5" selection-end-line="542" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/OCA07WorkingWithInheritance.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="4275">
+            <caret line="285" column="23" selection-start-line="285" selection-start-column="23" selection-end-line="285" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/OCA01JavaBasics.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="75" column="44" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/Baby.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass11Variables/Variaveis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass12Variables/Piadinha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass12Variables/SequenciaEscape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass12Variables/VariaveisBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA01JavaBasics/StudyClass12Variables/VariaveisChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA03UsingOperatorsDecisionConstant/Class1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA03UsingOperatorsDecisionConstant/Class2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/src/PackOCA03UsingOperatorsDecisionConstant/Class3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearnJavaMaster/OCA03UsingOperatorsAndDecisionConstructs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="317">
+            <caret line="923" column="6" lean-forward="true" selection-start-line="923" selection-start-column="6" selection-end-line="923" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": 1,
+    "nome": "string",
+    "email": "string",
+    "cpf": "string"
+  },
+  "erros": null
+}

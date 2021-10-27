@@ -1,0 +1,7 @@
+
+]squid:S3457."AFormat specifiers should be used instead of string concatenation.(ø„è¨þÿÿÿÿ
+]squid:S21422"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Ssquid:S2629 "7Use the built-in formatting to construct this argument.(ª­¦÷üÿÿÿÿ
+Ssquid:S2629."7Use the built-in formatting to construct this argument.(ø„è¨þÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å£Îù
+]squid:S3457 "AFormat specifiers should be used instead of string concatenation.(ª­¦÷üÿÿÿÿ

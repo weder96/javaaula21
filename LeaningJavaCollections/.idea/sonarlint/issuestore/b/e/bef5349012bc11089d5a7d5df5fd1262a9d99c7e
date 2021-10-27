@@ -1,0 +1,13 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğö×¾üÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(™™“Üûÿÿÿÿ
+[squid:HiddenFieldCheck"4Rename "x" which hides the field declared at line 5.(™Äÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø¥ëÓùÿÿÿÿ
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ıÛÚ‹øÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıÛÚ‹øÿÿÿÿ
+gsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(û¯™Q
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(û¯™Q

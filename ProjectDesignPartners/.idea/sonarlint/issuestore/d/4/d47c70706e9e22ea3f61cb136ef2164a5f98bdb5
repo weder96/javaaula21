@@ -1,0 +1,4 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ÀÝ§
+psquid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷·ªŒ
+psquid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷·ªŒ

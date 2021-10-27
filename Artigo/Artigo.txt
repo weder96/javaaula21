@@ -1,0 +1,164 @@
+Artigo Ferramentas de Testes Java e Python
+
+Artigo Base
+https://medium.com/javarevisited/10-test-automation-libraries-for-java-developers-e40cb61dcd49
+
+Atualmente em meu trabalho vejo a crescente busca por qualidade nas entregas das Releases,
+porem o que ainda vejo e testes sendo feitos me modo manual, não penso que seja desnecessario pois 
+ainda e relevante, mas estamos trabalhando com tecnologia e penso que e necessario a utilizarmos para redução de tempo 
+e melhoria dos processos. 
+E lendo um artigo interessante no mediun sobre o assunto, decidi criar varios artigos levando em consideração ferramentas de testes em Java e Python, 
+muitos me perguntaram, por que nas duas, a resposta e simples e as duas que mais uso e gosto, não quero entrar aqui em discussoes qual linguagem e 
+a melhor mesmo sabendo que e Java e Python (Seria minha resposta) .
+ 
+Muitos dizem que o teste é uma das disciplinas que separa os desenvolvedores fortes dos fracos e os profissionais dos amadores, penso
+que seja um diferencial e que sim, melhora e muito as qualidades dos codigos, outra técnica seria codigo limpo(famoso clean code), assunto para
+quem sabe um novo artigo.
+ 
+Não se trata de seguir Test Driven Development (TDD), Behavior Driven Development (BDD) ou qualquer outra metodologia de teste, 
+mas saber o mínimo necessario para se escrever um código para testar adequadamente o seu código automaticamente (Para muitos isto e complexo).
+
+Muitos desenvolvedores Java escrevem testes de unidade e testes de integração que são executados automaticamente durante o tempo de construção, 
+em muitas vezes e cobrado uma porcentagem de teste que gira em torno de 80% a 100% do seu código, porem tambem a discussoes sobre e que e necessario
+ser testado, porem não e o foco aqui neste momento.
+
+A unica coisa que digo e o que e visto os teste de automação estão crescendo exponencialmente, devido a cobrança dos clientes e conscientização das 
+equipes que viram nos teste uma forma de melhorar a qualidade da entrega e a decrescimo de retrabalho em bugs encontrados nos teste das equipes de testes manuaias,
+ou de teste de aceitação por parte do cliente.
+
+Ao me deparar com os desafios de teste notei que muitas ferramentas no que podem te ajudar cada uma tem suas premissas e qualidades e e sempre bom apreender novas 
+ferramentas , pois no futuro podemos tomar a decisão de qual e mais produtiva ou atende com perfeição ou o mais efetiva na solução do problema exposto.
+
+Este Artigo esta devidido em 10 partes onde abordarei sobre e se baseia em um artigo escrito por javinpaul (10+ Test Automation Libraries for Java Developers) 
+na plataforma medium e aconselho que leiam o mesmo e uma leitura rapida e que pode dar ao leitor deste artigo uma visão da abordagem deste artigo, pois irei trabalhar cada
+ferramenta descrita por ele e os codigos estarão disponivel em meu github (https://github.com/weder96) 
+
+Divisão deste Artigo 
+1. A primeira parte descreveremos jUnit5 
+2. A segunda parte descreveremos REST Assured 
+3. A terceira parte descreveremos Mockito 
+4. A Quarta parte descreveremos Selenium
+5. A Quinta parte descreveremos TestNG 
+6. A sexta parte descreveremos Spock Framework 
+7. A setima parte descreveremos Cucumber 
+8. A oitava parte descreveremos Spring Test 
+9. A noma parte descreveremos DBUnit 
+10. A decima parte descreveremos Robot Framework 
+
+01 . Junit
+https://medium.com/@mari_azevedo/qualidade-e-junit-introduzindo-automatiza%C3%A7%C3%A3o-de-testes-unit%C3%A1rios-do-seu-software-java-no-dia-a-dia-849611de5574
+
+O que é o jUnit ?
+Segundo o site(http://junit.wikidot.com/), 
+JUnit é um Framework open-source utilizado para facilitar o desenvolvimento de códigos em Java verificando se os resultados gerados pelos métodos são os esperados. Caso não sejam, o JUnit exibe os possíveis erros que estão ocorrendo nos métodos. Essa verificação é chamada de teste unitário ou teste de unidade.
+
+Ao validar esse Afirmação nos deparamos com outra questão.
+
+Mas o que são testes unitários?
+
+Um teste unitário simplesmente o teste da menor parte testável de um programa.
+Se você programa em uma linguagem que suporte paradígma funcional por exemplo, a menor parte testável  
+então será uma função. No caso de orientação a objetos seria o teste de um método de seu objeto.
+
+no site da jUnit a versão na data deste artigo e a versão 5, (https://junit.org/junit5/docs/current/user-guide/).
+
+O que é o JUnit 5?
+
+Sendo o mesmo um É um framework open-source para construção de testes automatizados em Java, hospedado no
+https://github.com/junit-team/junit5/ sendo formado das versões anteriores do JUnit, 
+o JUnit 5 é composto por vários módulos diferentes de três subprojetos diferentes.
+
+JUnit 5 = (JUnit Platform + JUnit Jupiter + JUnit Vintage)
+
+
+A Plataforma JUnit serve como base para o lançamento de estruturas de teste na JVM. 
+Ele também define a API TestEngine para desenvolver uma estrutura de teste executada na plataforma. 
+Além disso, a plataforma fornece um Console Launcher para iniciar a plataforma a partir da linha de comando e um Runner baseado no JUnit 4 para executar qualquer 
+TestEngine na plataforma em um ambiente baseado no JUnit 4. 
+O suporte de primeira nivel para a plataforma JUnit também existe em IDEs populares (
+IntelliJ IDEA, 
+Eclipse, 
+NetBeans e
+Visual Studio Code) e ferramentas de construção (Gradle, Maven e Ant).
+
+JUnit Jupiter é a combinação do novo modelo de programação e modelo de extensão para escrever testes e extensões no JUnit 5. 
+O subprojeto Jupiter fornece um TestEngine para executar testes baseados em Jupiter na plataforma.
+
+O JUnit Vintage fornece um TestEngine para executar testes baseados no JUnit 3 e JUnit 4 na plataforma.
+
+O jUnit requer Java 8 ou superior para executar, Entretanto os códigos que foram compilado com versões anteriores do JDK pode ser testado devido a modo suporte a versão anteriores.
+
+Criando o projeto Maven do jUnit5
+---------------------------------
+
+
+
+
+
+
+
+02 . REST Assured
+https://medium.com/aeturnuminc/getting-started-with-rest-assured-a087d806b4ec
+
+
+Começamos a segunda parte, falando do REST Assured
+
+O que é REST Assured? 
+
+No artigo de aeturnuminc descreve como:
+O REST Assured é uma biblioteca Java para validação de serviços da Web REST desenvolvidos e mantidos por Johan Haleby com o apoio de vários outros colaboradores ao longo dos anos. 
+Testar e validar serviços REST em Java é mais difícil do que fazê-lo com uma linguagem dinâmica como Ruby e Groovy. 
+O REST Assured proporcionou a facilidade de uso dessas linguagens no domínio Java. 
+Ele oferece o luxo de integrar os testes com as estruturas de teste predominantes baseadas em Java, como Junit, TestNG e Selenium Webdriver.
+
+definido o uso do REST Assured e vamos seguir em frente e verificar quais são os benefícios de usar o REST Assured.
+
+
+Criando o projeto para uso do REST Assured
+------------------------------------------
+
+Criando um projeto com SpringBoot 2.2.4 com Spring Initializr.
+Maven 3.9
+Java8
+Spring Web
+Lombok
+Spring Data JPA
+Spring Boot DevTools
+
+
+ 
+
+
+
+03. Mockito
+https://medium.com/trabe/mocking-with-mockito-advanced-techniques-3a4e5143c2ba
+
+4. Selenium
+https://medium.com/swlh/lets-take-a-look-at-selenium-d8640539ee23
+
+5. TestNG
+https://medium.com/gradeup/introduction-to-testng-7f401811f48c
+
+6. Spock Framework
+https://medium.com/@felixgilioli/como-escrever-testes-utilizando-spock-framework-868c78a00a2f
+
+7. Cucumber
+https://medium.com/@diogo___miranda/cucumber-dicas-e-truques-b8601e4ed68c
+
+8. Spring Test
+https://medium.com/@josevieiraneto/tdd-com-spring-boot-b5bf7ec725e
+
+9. DBUnit
+https://medium.com/@intertech/a-look-at-whats-new-with-dbunit-release-2-6-0-b512866a5fe2
+
+
+Python
+Artigo(s) Base
+https://medium.com/@goranaviani/testing-in-python-c6b903eb247d
+
+https://www.freecodecamp.org/news/learning-to-test-with-python-997ace2d8abe/
+
+10. Robot Framework
+https://medium.com/@karansharma1527/getting-started-with-robot-framework-c2229e20ea02
+
+

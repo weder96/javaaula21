@@ -1,0 +1,6 @@
+
+‰ squid:ForLoopCounterChangedCheck""XRefactor the code in order to not assign to this loop counter from within the loop body.(¼á›‹ÿÿÿÿÿ
+gsquid:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(³ÃÖË
+gsquid:S1149X"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(‹®úÕ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öíáú

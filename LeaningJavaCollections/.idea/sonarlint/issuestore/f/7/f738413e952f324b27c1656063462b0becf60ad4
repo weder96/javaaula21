@@ -1,0 +1,26 @@
+
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÁùÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Œ’¢ûÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓïÂúşÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì®àÑ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®„şüÿÿÿÿ
+Lsquid:S1854"5Remove this useless assignment to local variable "b".(“–ÙØ
+Qsquid:S1854"5Remove this useless assignment to local variable "a".(ò†äıÿÿÿÿ
+Rsquid:S1854";Remove this useless assignment to local variable "ano2020".(æ»Å¤
+asquid:S1854
+"ERemove this useless assignment to local variable "nomeDoMeuCachorro".(îÔ¤Èşÿÿÿÿ
+Usquid:S1854"9Remove this useless assignment to local variable "idade".(“Ø¬ˆşÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(´ü¥
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚•ªÔ
+Rsquid:S1481
+"6Remove this unused "nomeDoMeuCachorro" local variable.(îÔ¤Èşÿÿÿÿ
+Csquid:S1481",Remove this unused "ano2020" local variable.(æ»Å¤
+Gsquid:S1481"+Remove this unused "_idade" local variable.(şÁùÿÿÿÿ
+Gsquid:S1481"+Remove this unused "$idade" local variable.(©Œ’¢ûÿÿÿÿ
+Usquid:S1481"9Remove this unused "nome_do_meu_cachorro" local variable.(ÓïÂúşÿÿÿÿ
+Msquid:S1481"6Remove this unused "NomeDoMeuCachorro" local variable.(Ì®àÑ
+Rsquid:S1481"6Remove this unused "nomeDoMeucachorro" local variable.(¡íÄøÿÿÿÿ
+Bsquid:S1481"&Remove this unused "a" local variable.(ò†äıÿÿÿÿ
+=squid:S1481"&Remove this unused "b" local variable.(“–ÙØ
